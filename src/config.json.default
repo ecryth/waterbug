@@ -1,0 +1,17 @@
+{
+    "waterbug": {
+        "prefix": "%"
+    },
+    "servers": {
+        "FreeNode": {
+            "hostname": "chat.freenode.net",
+            "port": 6667,
+            "autojoin": [],
+            "privileges": {
+            }
+        }
+    },
+    "modules": {
+        
+    }
+}
