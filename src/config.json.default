@@ -4,14 +4,25 @@
     },
     "servers": {
         "FreeNode": {
-            "hostname": "chat.freenode.net",
+            "prefix": "%",
+            "server": "chat.freenode.net",
             "port": 6667,
+            "username": "Waterbug|dev",
+            "ident": {
+                "user": "waterbug",
+                "hostname": "-",
+                "servername": "-",
+                "realname": "Waterbug"
+            },
             "autojoin": [],
             "privileges": {
-            }
+            },
+            "quit_msg": "Waterbug quitting...",
+            "inencoding": "irc",
+            "outencoding": "utf8"
         }
     },
     "modules": {
-        
+
     }
 }
